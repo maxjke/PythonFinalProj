@@ -1,0 +1,53 @@
+{
+    "Antanas": {
+        "name": "Antanas",
+        "surname": "Antanauskas",
+        "age": 20,
+        "grades": {
+            "Matematika": [
+                9,
+                8
+            ],
+            "Fizika": [
+                7,
+                6
+            ],
+            "Data Science": [
+                10
+            ]
+        }
+    },
+    "Jonas": {
+        "name": "Jonas",
+        "surname": "Jonaitis",
+        "age": 22,
+        "grades": {
+            "Matematika": [
+                6,
+                8
+            ],
+            "Chemija": [
+                5,
+                7
+            ],
+            "Informacines technologijos": [
+                10
+            ]
+        }
+    },
+    "Agne": {
+        "name": "Agne",
+        "surname": "Agnaite",
+        "age": 19,
+        "grades": {
+            "Biologija": [
+                10,
+                9
+            ],
+            "Fizika": [
+                8,
+                7
+            ]
+        }
+    }
+}
