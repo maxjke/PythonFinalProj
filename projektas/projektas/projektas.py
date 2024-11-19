@@ -131,7 +131,7 @@ class LoginApp(tk.Tk):
         for widget in self.winfo_children():
             widget.destroy()
 
-        tk.Label(self, text="Sveiki atvykę į studento dienyną!", font=("Arial", 14)).pack(pady=10)
+        tk.Label(self, text="Sveiki prisijungę į studento dienyną!", font=("Arial", 14)).pack(pady=10)
         
         view_grades_button = tk.Button(self, text="Pažymių peržiūra", command=self.view_grades)
         view_grades_button.pack(pady=5)
@@ -150,7 +150,7 @@ class LoginApp(tk.Tk):
         for widget in self.winfo_children():
             widget.destroy()
 
-        tk.Label(self, text="Sveiki atvykę, dėstytojau!", font=("Arial", 14)).pack(pady=10)
+        tk.Label(self, text="Sveiki, dėstytojau!", font=("Arial", 14)).pack(pady=10)
         
         tk.Button(self, text="Visų studentų peržiūra", command=self.view_all_students).pack(pady=5)
         tk.Button(self, text="Pridėti studentą", command=self.add_student).pack(pady=5)

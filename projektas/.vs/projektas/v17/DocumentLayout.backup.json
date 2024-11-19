@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kristupas\\Desktop\\PythonFinalProj\\projektas\\",
+  "WorkspaceRootPath": "C:\\Users\\Maksim\\Desktop\\PythonFinalProject\\proj\\projektas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD89E04A-EFA9-49DE-870E-123C3E7F920F}|projektas\\projektas.pyproj|C:\\Users\\kristupas\\Desktop\\PythonFinalProj\\projektas\\projektas\\projektas.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{AD89E04A-EFA9-49DE-870E-123C3E7F920F}|projektas\\projektas.pyproj|C:\\Users\\Maksim\\Desktop\\PythonFinalProject\\proj\\projektas\\projektas\\projektas.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AD89E04A-EFA9-49DE-870E-123C3E7F920F}|projektas\\projektas.pyproj|solutionrelative:projektas\\projektas.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "projektas.py",
-              "DocumentMoniker": "C:\\Users\\kristupas\\Desktop\\PythonFinalProj\\projektas\\projektas\\projektas.py",
+              "DocumentMoniker": "C:\\Users\\Maksim\\Desktop\\PythonFinalProject\\proj\\projektas\\projektas\\projektas.py",
               "RelativeDocumentMoniker": "projektas\\projektas.py",
-              "ToolTip": "C:\\Users\\kristupas\\Desktop\\PythonFinalProj\\projektas\\projektas\\projektas.py",
+              "ToolTip": "C:\\Users\\Maksim\\Desktop\\PythonFinalProject\\proj\\projektas\\projektas\\projektas.py",
               "RelativeToolTip": "projektas\\projektas.py",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIUAAABmAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2024-11-19T12:12:51.344Z",
               "EditorCaption": ""
